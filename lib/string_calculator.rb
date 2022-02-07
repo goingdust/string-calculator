@@ -1,1 +1,6 @@
-class StringCalculator; end
+class StringCalculator;
+ 
+  def self.add(input)
+    0
+  end
+end
